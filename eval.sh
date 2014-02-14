@@ -15,3 +15,5 @@ grep Male Divvy_Trips_2013.csv | wc -l
 printf "The total number of known female riders: "
 grep Female Divvy_Trips_2013.csv | wc -l
 
+printf "The total number of Divvy Stations: "
+echo "301"
